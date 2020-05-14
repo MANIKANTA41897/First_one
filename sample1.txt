@@ -1,0 +1,3 @@
+This is my first sample text
+Im doing this to get hands on of git
+I need to be more on hands on of git and github
